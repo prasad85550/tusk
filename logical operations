@@ -1,0 +1,3 @@
+a&&b=true;
+a^b=false;
+done changes from contributer
